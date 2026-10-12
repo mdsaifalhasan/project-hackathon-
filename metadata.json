@@ -1,0 +1,6 @@
+{
+  "name": "CLUSTERMIND",
+  "description": "AI-Powered Smart Port Digital Twin & Infrastructure Intelligence Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
